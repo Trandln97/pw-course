@@ -1,0 +1,4 @@
+git init: khoi tao repo local (lam mot lan duy nhat)
+git add <file_name>: them file tu Working Directory vao staging (lam moi khi co thay doi)
+git add .: them tat ca file tu Working Directory vao staging (lam moi khi co thay doi)
+git commit -m “message”: commit file tu staging len repository (lam moi khi co thay doi)
