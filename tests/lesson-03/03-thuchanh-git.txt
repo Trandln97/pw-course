@@ -1,0 +1,29 @@
+a: git init
+Local: 
+Working Directory:
+Staging:
+Reppository:
+
+b: tao file1.txt, file2.txt, file3.txt
+Local: 
+Working Directory: file1.txt, file2.txt, file3.txt
+Staging:
+Reppository:
+
+c: them vao file .gitignore (file1.txt va oops/)
+Local: 
+Working Directory: file1.txt, file2.txt, file3.txt
+Staging:
+Reppository:
+
+d: git add .
+Local: 
+Working Directory: file1.txt
+Staging: file2.txt, file3.txt
+Reppository:
+
+e: git commit -m"init project"
+Local: 
+Working Directory: file1.txt
+Staging:
+Reppository: file2.txt, file3.txt

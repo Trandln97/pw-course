@@ -1,0 +1,4 @@
+git commit --amend : sua doi commit gan nhat (undo)
+git commit --amend -m"<message>" : sua message cua commit (undo)
+git restore --staged <file> : revert lai file khong muon add len staging
+git reset HEAD~1 : revert con tro ve vi tri truoc do 
